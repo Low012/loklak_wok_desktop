@@ -15,6 +15,7 @@ The goal of this project is to provide a desktop version of [Loklak Wok Android]
 * Font size is hardcoded. How ugly is that?
 * It would be cool to have a project for code shared between Android and Desktop version.
 * The only dependency which can not be resolved via Maven is [loklakj](https://github.com/loklak/loklakj_lib). Wouldn't it be cool to change that?
+* The used font does not seem to support Asian characters.
 
 ## LICENSE
 This is licensed under LGPL 2.1. The the file
