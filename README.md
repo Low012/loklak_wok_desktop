@@ -1,6 +1,9 @@
 # Loklak Wok Desktop
 The goal of this project is to provide a desktop version of [Loklak Wok Android](https://github.com/loklak/loklak_wok_android). The origin of the project is a [tweet by @Frank_gamefreak](https://twitter.com/Frank_gamefreak/status/706458848522080256).
 
+![Screenshot](https://github.com/Low012/loklak_wok_desktop/blob/master/stuff/screenshot.png "Screenshot")
+
+
 ##How to compile and run
 * import required lib by running **setup.sh**
 * compile with **mvn clean install -Pexecutable-jar**
