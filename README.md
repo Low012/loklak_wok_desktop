@@ -12,7 +12,7 @@ The goal of this project is to provide a desktop version of [Loklak Wok Android]
 
 ##To be done
 * The code has been hacked and butchered and is some kind of Frankenstein. It needs cleanup.
-* Font size is hardcode. How ugly is that?
+* Font size is hardcoded. How ugly is that?
 * It would be cool to have a project for code shared between Android and Desktop version.
 * The only dependency which can not be resolved via Maven is [loklakj](https://github.com/loklak/loklakj_lib). Wouldn't it be cool to change that?
 
